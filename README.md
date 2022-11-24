@@ -9,5 +9,5 @@ $ cd matching-products
 
 On the command line, within this directory run the following command
 ```
-sh run.sh
+$ sh run.sh
 ```
